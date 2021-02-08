@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kurinii_sup_s_chesnokom-614417.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kurinii_sup_s_chesnokom-614417@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kurinii_sup_s_chesnokom-614417@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

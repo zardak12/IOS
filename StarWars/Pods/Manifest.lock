@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - FittedSheets (2.4.0)
+  - Kingfisher (6.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - FittedSheets (~> 2.4)
+  - Kingfisher (~> 6.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FittedSheets
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  FittedSheets: 470a7740a083156d711ab6ccd37d1d539005e6aa
+  Kingfisher: 676d63307fbef6ed5d5ed400bff36983480d7500
+
+PODFILE CHECKSUM: 6107a7f8c0005c586fa4c5c49a375076e88b20cf
+
+COCOAPODS: 1.8.4
